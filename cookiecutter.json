@@ -1,0 +1,6 @@
+{
+    "project_name": "my-superdots",
+    "description": "An awesome superdots plugin",
+    "github_user": "",
+    "github_project": "{{cookiecutter.project_name}}"
+}
